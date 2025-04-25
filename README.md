@@ -16,7 +16,7 @@ Este repositório fornece uma configuração pronta para uso do [n8n](https://n8
 
 ```bash
 git clone https://github.com/FabricioTff/n8n_hosting.git
-cd seu-repo-n8n-docker
+cd n8n_hosting
 ```
 
 ### 2. Configure as variáveis de ambiente
