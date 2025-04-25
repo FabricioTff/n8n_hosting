@@ -15,7 +15,7 @@ Este repositório fornece uma configuração pronta para uso do [n8n](https://n8
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo-n8n-docker.git
+git clone https://github.com/FabricioTff/n8n_hosting.git
 cd seu-repo-n8n-docker
 ```
 
